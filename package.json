@@ -1,0 +1,19 @@
+{
+  "name": "catfeedingtracker",
+  "version": "1.0.0",
+  "description": "application to track the feeding of the cats",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gregjohnsonsince1987/catfeedingtracker.git"
+  },
+  "author": "Greg Johnson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gregjohnsonsince1987/catfeedingtracker/issues"
+  },
+  "homepage": "https://github.com/gregjohnsonsince1987/catfeedingtracker#readme"
+}
